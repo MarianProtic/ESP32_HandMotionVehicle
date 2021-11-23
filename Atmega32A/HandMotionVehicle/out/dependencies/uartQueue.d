@@ -1,0 +1,22 @@
+out/objects/uartQueue.o: \
+ D:/AtmelToolchain_balboa/workspace/HandMotionVehicle/sources/uartQueue.c \
+ D:/AtmelToolchain_balboa/workspace/HandMotionVehicle/includes/uartQueue.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\stdio.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\inttypes.h \
+ d:\atmeltoolchain_balboa\tools\compiler\lib\gcc\avr\5.4.0\include\stdint.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\stdint.h \
+ d:\atmeltoolchain_balboa\tools\compiler\lib\gcc\avr\5.4.0\include\stdarg.h \
+ d:\atmeltoolchain_balboa\tools\compiler\lib\gcc\avr\5.4.0\include\stddef.h \
+ D:/AtmelToolchain_balboa/workspace/HandMotionVehicle/includes/uart.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\stdlib.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\util\delay.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\util\delay_basic.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\math.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\avr\io.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\avr\sfr_defs.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\avr\iom32u4.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\avr\portpins.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\avr\common.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\avr\version.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\avr\fuse.h \
+ d:\atmeltoolchain_balboa\tools\compiler\avr\include\avr\lock.h
